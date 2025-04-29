@@ -49,4 +49,28 @@ Pixilator is a Python application designed to pixelate images through a user-fri
    
     ```bash
     python3 main.py  
-# Pixilator
+## Sample:
+
+<table>
+  <tr>
+    <td><strong>Input Image</strong></td>
+    <td><strong>Pixelated Output</strong></td>
+  </tr>
+  <tr>
+    <td><img src="assets/input_1.jpg" width="max"/></td>
+    <td><img src="assets/output_1.png" width="max"/></td>
+  </tr>
+
+  <tr>
+    <td><img src="assets/input_2.png" width="max"/></td>
+    <td><img src="assets/output_2.png" width="max"/></td>
+  </tr>
+   
+</table>
+
+## 👥Contributor:
+
+- [@ThaGeekiestOne](https://github.com/ThaGeekiestOne) – Creator & Maintainer
+
+
+
