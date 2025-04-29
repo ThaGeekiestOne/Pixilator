@@ -8,6 +8,26 @@ Pixilator is a Python application designed to pixelate images through a user-fri
 - Apply pixelation effects with adjustable parameters.
 - Save the pixelated images.
 
+## Sample:
+
+<table>
+  <tr>
+    <td><strong>Input Image</strong></td>
+    <td><strong>Pixelated Output</strong></td>
+  </tr>
+  <tr>
+    <td><img src="assets/input_1.jpg" width="max"/></td>
+    <td><img src="assets/output_1.png" width="max"/></td>
+  </tr>
+
+  <tr>
+    <td><img src="assets/input_2.png" width="max"/></td>
+    <td><img src="assets/output_2.png" width="max"/></td>
+  </tr>
+   
+</table>
+
+
 ## 🛠️ Installation
 
 ### Prerequisites
@@ -45,28 +65,10 @@ Pixilator is a Python application designed to pixelate images through a user-fri
 
    - **Windows: tkinter is usually included with Python, so no extra installation is needed.**
 
-4.  **Run the program**
+4.  **▶️Run the program**
    
     ```bash
     python3 main.py  
-## Sample:
-
-<table>
-  <tr>
-    <td><strong>Input Image</strong></td>
-    <td><strong>Pixelated Output</strong></td>
-  </tr>
-  <tr>
-    <td><img src="assets/input_1.jpg" width="max"/></td>
-    <td><img src="assets/output_1.png" width="max"/></td>
-  </tr>
-
-  <tr>
-    <td><img src="assets/input_2.png" width="max"/></td>
-    <td><img src="assets/output_2.png" width="max"/></td>
-  </tr>
-   
-</table>
 
 ## 👥Contributor:
 
