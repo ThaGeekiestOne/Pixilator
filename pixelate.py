@@ -14,9 +14,8 @@ def pixelate_image(image_path, pixel_size):
     return img
 
 if __name__ == '__main__':
-    # Example usage (can be removed or commented out in the final application)
     try:
-        pixelated_img = pixelate_image("test_image.jpg", 8)  # Replace "test_image.jpg" with an actual image
+        pixelated_img = pixelate_image("test_image.jpg", 8) 
         pixelated_img.save("pixelated_test_image.jpg")
         print("Image pixelated successfully! Saved as pixelated_test_image.jpg")
     except FileNotFoundError as e:
